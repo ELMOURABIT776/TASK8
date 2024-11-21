@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.29)
+project(TASK8_VOLUME_AND_SURFACE_AREA_OF_A_CYLINDER)
+
+set(CMAKE_CXX_STANDARD 20)
+
+add_executable(TASK8_VOLUME_AND_SURFACE_AREA_OF_A_CYLINDER main.cpp)
